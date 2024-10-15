@@ -1,0 +1,11 @@
+sqlite3      
+cv2           
+insightface  
+os           
+sys          
+argparse     
+numpy
+imghdr       
+hashlib      
+colorama     
+numba
